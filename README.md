@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on open source projects
 - 📫 Reach me: jayaraj[at]computer[dot]org
-- 📫 Reach me: jayaraj[at]computer[dot]org
 - 😃 To find more about me, click these:
 
 [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width=60 height= 60>](https://linkedin.com/in/jyjnair)       [<img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width=55 height= 60>](https://instagram.com/_jyrj_)                       [<img src="https://image.flaticon.com/icons/svg/174/174848.svg" width=55 height= 60>](https://instagram.com/jyjnair)
