@@ -9,8 +9,6 @@
 
  - I'm a night owl [🦉](https://emojipedia.org/owl/)and a snake [🐍](https://emojipedia.org/snake/) lover.
 
-![Late night is the best time for me! You can see me in front of my laptop with coffee instead of bed!](https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif)
-
 With ❤️ from Jayaraj. Thank you! [🙏](https://emojipedia.org/folded-hands/)
 ```
 ```
