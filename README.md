@@ -9,6 +9,6 @@
 - I'm a night owl [🦉](https://emojipedia.org/owl/)and a snake [🐍](https://emojipedia.org/snake/) lover.
 
 With ❤️ from Jayaraj. Thank you! [🙏](https://emojipedia.org/folded-hands/)
-```
-Hmm... Hmm..LOOK WHO IS HERE! LIKED MY README? Follow me on GitHub, I will definetely follow you back! Thank you!
-```
+
+<!--- Hmm... Hmm..LOOK WHO IS HERE! LIKED MY README? Follow me on GitHub, I will definetely follow you back! Thank you! -->
+
