@@ -10,7 +10,7 @@
 
 With ❤️ from Jayaraj. Thank you! [🙏](https://emojipedia.org/folded-hands/)
 
-<img src="Banner.gif">
+![](Banner.gif)
 
 
 <!--- Hmm... Hmm..LOOK WHO IS HERE! LIKED MY README? Follow me on GitHub, I will definetely follow you back! Thank you! -->
