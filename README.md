@@ -11,7 +11,8 @@
 With ❤️ from Jayaraj. Thank you! [🙏](https://emojipedia.org/folded-hands/)
 
 <u> [![My github status](https://github-readme-stats.vercel.app/api?username=jyrj&show_icons=true&count_private=true&theme=radical)](https://github.com/jyrj)
- </u>
+ </u> <u> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyrj&hide=jupyter+notebook&layout=compact&theme=radical)](https://github.com/jyrj) </u>
+
 
 
 
