@@ -10,7 +10,8 @@
 
 With ❤️ from Jayaraj. Thank you! [🙏](https://emojipedia.org/folded-hands/)
 
-<u> [<img src="https://github.com/jyrj/jyrj/blob/master/Banner.gif">](https://jyrj.github.io) </u>
+<u> [![My github status](https://github-readme-stats.vercel.app/api?username=jyrj&show_icons=true&count_private=true&theme=radical)](https://github.com/jyrj)
+ </u>
 
 
 
