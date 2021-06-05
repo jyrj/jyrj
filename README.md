@@ -13,9 +13,13 @@
 - A nocturnal being [🦉](https://emojipedia.org/owl/), likes to fix bugs at night 🌚
 - Ask me why I prefer Linux <img src="https://user-images.githubusercontent.com/54764778/120906276-93518a80-c675-11eb-8577-11de13b9646f.png" width=20> over others❓
 
+<a href="https://github.com/jyrj/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyrj&show_icons=true&count_private=true&hide=stars&theme=radical" />
+</a>
+<a href="https://github.com/jyrj/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyrj&hide=jupyter+notebook&layout=compact&theme=radical" />
+</a>
 
-
-<u> [![My github status](https://github-readme-stats.vercel.app/api?username=jyrj&show_icons=true&count_private=true&hide=stars&theme=radical)](https://github.com/jyrj)</u></u> <u> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyrj&hide=jupyter+notebook&layout=compact&theme=radical)](https://github.com/jyrj) </u>
  
 #### Connect with me 👇
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" width=50 height= 50>](https://linkedin.com/in/jyjnair)  &nbsp;[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384017.svg" width=50 height= 50>](https://twitter.com/jyrj_j) &nbsp;[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width=50 height= 50>](https://instagram.com/_jyrj_) &nbsp; [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384005.svg" width=50 height= 50>](https://facebook.com/jyjnair) &nbsp;[<img src="https://www.flaticon.com/svg/static/icons/svg/95/95627.svg" width=50 height= 50>](mailto:jayarajevur@gmail.com?subject=Hi!%20I%20found%20you%20from%20Github)
