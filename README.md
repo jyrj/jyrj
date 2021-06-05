@@ -24,9 +24,12 @@
 #### Connect with me 👇
 [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384014.svg" width=50 height= 50>](https://linkedin.com/in/jyjnair)  &nbsp;[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384017.svg" width=50 height= 50>](https://twitter.com/jyrj_j) &nbsp;[<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384015.svg" width=50 height= 50>](https://instagram.com/_jyrj_) &nbsp; [<img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384005.svg" width=50 height= 50>](https://facebook.com/jyjnair) &nbsp;[<img src="https://www.flaticon.com/svg/static/icons/svg/95/95627.svg" width=50 height= 50>](mailto:jayarajevur@gmail.com?subject=Hi!%20I%20found%20you%20from%20Github)
 
-###### <p align="center">![visitors](https://visitor-badge.laobi.icu/badge?page_id=jyrj.jyrj)
+###### <p align="center">![visitors](https://visitor-badge.laobi.icu/badge?page_id=jyrj.jyrj) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
+
+
+<!--- Hmm... Hmm..LOOK WHO IS HERE! LIKED MY README? Give it a star ⭐ Follow me on GitHub to stay connected with me! Thank you! 
+
 ###### <p align="center">Made with <img src="https://user-images.githubusercontent.com/54764778/120905741-d1e54600-c671-11eb-8fa1-ac61b1ddd86f.png" width=13> and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png" width=18>
-
-
-<!--- Hmm... Hmm..LOOK WHO IS HERE! LIKED MY README? Give it a star ⭐ Follow me on GitHub to stay connected with me! Thank you! -->
+-->
 
